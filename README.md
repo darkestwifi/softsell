@@ -1,12 +1,79 @@
-# React + Vite
+# 🚀 SoftSell – License Resale Made Simple
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SoftSell is a responsive, single-page marketing website built for a fictional software resale startup. This project was developed as part of the Credex Web Development Internship Assignment, focusing on UI/UX design, responsiveness, and React-based implementation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Visit SoftSell Website](https://your-live-link-here.com)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Features Implemented
+
+### ✅ Hero Section
+- Clean headline and engaging subheading
+- CTA button (e.g., "Sell My License")
+
+### ✅ How It Works
+- Three-step flow with icons:
+  1. Upload License
+  2. Get Valuation
+  3. Get Paid
+
+### ✅ Why Choose Us
+- Highlighted features with icons:
+  - Fast & Secure Transactions
+  - Verified Buyers & Sellers
+  - Transparent Valuation
+  - 24/7 Support
+
+### ✅ Customer Testimonials
+- Two dummy reviews with name, role, and company
+
+### ✅ Contact / Lead Form
+- Fields: Name, Email, Company, License Type (dropdown), Message
+- Frontend validation included
+
+---
+
+## 🧠 Bonus Features (Optional Enhancements)
+
+- 🌙 Light/Dark Mode Toggle
+- ✨ Animations using Framer Motion
+- 🔍 SEO Meta Tags and Title
+- 📛 Logo Placeholder and Favicon
+- 🤖 AI-Powered Chat Widget (Mocked with hardcoded Q&A)
+
+---
+
+## 💻 Tech Stack
+
+| Tech         | Description                     |
+|--------------|---------------------------------|
+| React.js     | Frontend Framework              |
+| Vite         | Build Tool                      |
+| Tailwind CSS | Utility-first CSS Framework     |
+| Framer Motion| Smooth UI animations            |
+| GitHub Pages | Hosting platform (or Vercel)    |
+
+---
+
+## 🎨 Design Choices
+
+- Minimalist and modern design
+- Tailwind CSS for fast, responsive styling
+- Smooth animations for better engagement
+- Mobile-first layout with flexible grid and spacing
+- Google Fonts for clean typography
+
+---
+
+## 📄 Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/darkestwifi/softsell.git
+cd softsell
+
